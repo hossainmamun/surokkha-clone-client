@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "global-authentication-system"
+  },
+  "targets": {
+    "global-authentication-system": {
+      "hosting": {
+        "surokkha": [
+          "surokkha-clone"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+.enroll {
+    margin-bottom: 80px;
+    .header {
+        background-color: #f26d3e;
+        padding: 20px 0;
+        h3 {
+            margin: 0;
+            color: #fff;
+            font-size: clamp(1.2rem, 6vw, 1.8rem);
+            font-weight: 500;
+        }
+    }
+    .menu-instruction{
+        h3{
+            font-size: clamp(1.1rem, 5vw, 1.4rem);
+        }
+    }
+}

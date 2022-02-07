@@ -1,0 +1,19 @@
+.navbar {
+    .nav-link {
+        font-size: 15px;
+        color: rgb(70, 68, 68);
+        margin: 5px;
+        &:hover {
+            color: #000;
+        }
+    }
+    .active-class-link {
+        color: #F26F3E;
+        border-bottom: 2px solid #F26F3E;
+    }
+
+    .btn{
+        background-color: #F26F3E;
+        color: #fff;
+    }
+}

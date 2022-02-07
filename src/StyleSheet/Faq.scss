@@ -1,0 +1,18 @@
+.collapse-sec {
+    border-bottom: 1px solid rgb(180, 177, 177);
+    h6 {
+        cursor: pointer;
+        margin: 0 0 10px 0;
+        transition: all 0.3s ease-in;
+        -webkit-transition: all 0.3s ease-in;
+        -moz-transition: all 0.3s ease-in;
+        -ms-transition: all 0.3s ease-in;
+        -o-transition: all 0.3s ease-in;
+        &:hover {
+            color: red;
+        }
+    }
+    p {
+        margin: 0 0 10px;
+    }
+}

@@ -1,0 +1,46 @@
+.corona-update {
+    .data-card {
+        margin: 20px 0;
+        .card {
+            color: #fff;
+            text-align: center;
+            padding: 25px 15px;
+            box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+            border: none;
+            border-radius: 8px;
+            -webkit-border-radius: 8px;
+            -moz-border-radius: 8px;
+            -ms-border-radius: 8px;
+            -o-border-radius: 8px;
+
+            h6 {
+                font-size: clamp(1.2rem, 5vw, 1.5rem);
+            }
+        }
+        .bg-blue {
+            background-color: #5d5fef;
+        }
+        .bg-purple {
+            background-color: #a629da;
+        }
+        .bg-lime {
+            background-color: #8dc63f;
+        }
+        .bg-red {
+            background-color: #ee262f;
+        }
+    }
+
+    .show-h3 {
+        display: none;
+    }
+
+    .active-h3 {
+        display: block;
+    }
+
+    .active-tab {
+        background-color: #f26d3e !important;
+        color: #ffff !important;
+    }
+}
